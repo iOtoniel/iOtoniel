@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou Otoniel Santos
 
+🇧🇷 **Português** | [🇺🇸 English](README.en.md)
+
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
 🎓 **Estudante de Bacharelado em Sistemas de Informação (IV semestre)** no **IFBA**.
