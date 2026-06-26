@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Otoniel Santos
 
+[🇧🇷 Português](README.md) | **🇺🇸 English**
+
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
 🎓 **Information Systems undergraduate (4th semester)** at **IFBA**.
