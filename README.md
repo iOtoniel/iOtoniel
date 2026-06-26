@@ -62,7 +62,7 @@ Esse foi um dos projetos mais importantes que desenvolvi, unindo planejamento, d
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iOtoniel&theme=tokyonight"/>
 
 </div>
 
