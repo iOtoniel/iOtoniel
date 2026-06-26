@@ -58,9 +58,9 @@ Esse foi um dos projetos mais importantes que desenvolvi, unindo planejamento, d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iOtoniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOtoniel&layout=compact&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iOtoniel&theme=tokyonight"/>
 
@@ -76,7 +76,7 @@ Esse foi um dos projetos mais importantes que desenvolvi, unindo planejamento, d
 
 ## 👀 Visitantes
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=for-the-badge\&color=blue)
+![](https://komarev.com/ghpvc/?username=iOtoniel\&style=for-the-badge\&color=blue)
 
 ---
 
